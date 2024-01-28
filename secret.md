@@ -1,14 +1,10 @@
 # Secret
 
-Only joking, it's just notes.
-
-</br>
+Just kidding, it's just notes.
 
 ---
 
-</br>
-
-## How to publish (Google Chrome):
+## How to publish (Firefox):
 
 1. **Prepare Your Extension:**
 
@@ -17,77 +13,49 @@ Only joking, it's just notes.
 
 2. **Create a Developer Account:**
 
-   - You need a Google Account to create a Chrome Developer account.
-     If you don't have one, create it [here](https://accounts.google.com/signup).
-   - Once you have a Google Account,
-     go to the [Chrome Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard).
+   - You need a Firefox Account to create a Firefox Developer account.
+     If you don't have one, create it [here](https://addons.mozilla.org/en-US/firefox/users/register).
+   - Once you have a Firefox Account,
+     go to the [Mozilla Add-ons Developer Hub](https://addons.mozilla.org/en-US/developers/).
 
-3. **Pay the Developer Registration Fee:**
+3. **Submit Your Extension:**
 
-   - There is a one-time registration fee of $5 USD to become a Chrome Web Store developer.
-     Follow the instructions on the Developer Dashboard to pay the fee.
+   - Click on "Submit a New Add-on" on the Mozilla Add-ons Developer Hub.
+   - Upload the ZIP file containing your extension files.
+   - Provide information about your add-on, such as the name, description, version, and compatible applications.
 
-4. **Create a New Item:**
+4. **Configure Distribution & Privacy:**
 
-   - Click on the "Add a new item" button on the Developer Dashboard.
-   - Fill in the required information, including uploading your extension's ZIP file
-     (compress all your extension files into a ZIP archive).
+   - Set distribution options and privacy settings as per your preferences.
 
-5. **Add Screenshots and Descriptions:**
+5. **Submit for Review:**
 
-   - Upload screenshots of your extension and provide a detailed description of its functionality.
+   - Once all required information is filled, submit your add-on for review.
+   - The Mozilla Add-ons team will review your extension to ensure it complies with their policies.
 
-6. **Set Pricing and Availability (Optional):**
+6. **Wait for Approval:**
+   - Approval times may vary, and you'll receive notification once your extension is approved.
 
-   - Choose whether your extension will be free or paid.
-   - Set the countries where your extension will be available.
-
-7. **Publish the Extension:**
-
-   - Click the "Publish changes" button to submit your extension.
-   - Note that it may take some time for your extension to be reviewed by the Chrome Web Store team.
-
-8. **Wait for Review:**
-
-   - The Chrome Web Store team will review your extension to ensure it complies with their policies.
-     This process may take a few hours to several days.
-
-9. **Receive Approval:**
-   - Once your extension is approved, it will be published on the Chrome Web Store,
-     and users can start installing it.
-
-Remember to follow the [Chrome Web Store developer program policies](https://developer.chrome.com/docs/webstore/program_policies/)
+Remember to follow the [Mozilla Add-ons policies and guidelines](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/Distribution_policies)
 to ensure your extension complies with the guidelines.
 
 Please note that this information is based on the state of things as of my last knowledge update in January 2022,
 and there might have been changes to the process or policies since then.
-Always refer to the latest Chrome Web Store documentation for the most accurate and up-to-date information.
-
-</br>
+Always refer to the latest Mozilla Add-ons documentation for the most accurate and up-to-date information.
 
 ---
 
-</br>
+**Load Extension in Firefox:**
 
-**Load Extension in Chrome:**
-
-- Open the Extensions page in Chrome `chrome://extensions/`.
-- Enable "Developer mode," and click "Load unpacked."
-- Select the directory containing your extension files.
-
-</br>
+1. Open Firefox and navigate to `about:debugging#/runtime/`.
+2. Click on the "This Firefox" tab on the left sidebar.
+3. Click the "Load Temporary Add-on..." button.
+4. Navigate to the directory containing your extension files and select the `manifest.json` file.
+5. Your extension will be loaded temporarily, and you'll see it listed in the "Temporary Extensions" section.
 
 ---
-
-</br>
 
 Check later if not working:
 
-- https://developer.chrome.com/docs/extensions/reference/api/webNavigation#event-onHistoryStateUpdated
-- https://developer.chrome.com/docs/extensions/reference/api/webNavigation#event-onCompleted
-
-</br>
-
----
-
-</br>
+- [onHistoryStateUpdated Event](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/webNavigation/onHistoryStateUpdated)
+- [onCompleted Event](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/webNavigation/onCompleted)
