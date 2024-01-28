@@ -55,6 +55,35 @@ Always refer to the latest Mozilla Add-ons documentation for the most accurate a
 
 ---
 
+## Checking Firefox Extension Review Status
+
+1. **Visit the Developer Hub:**
+   Go to the [Mozilla Add-ons Developer Hub](https://addons.mozilla.org/en-US/developers/).
+
+2. **Sign In:**
+   Sign in with the account you used to submit the extension.
+
+3. **Navigate to "Manage My Submissions":**
+
+   - Once logged in, look for a menu or section that allows you to manage your submissions.
+   - This section is typically labeled "Manage My Submissions" or something similar.
+
+4. **Check the Status:**
+
+   - In the "Manage My Submissions" section, you should see a list of your submitted extensions.
+   - Look for the specific extension you submitted and check its status.
+   - The status will indicate whether it's under review, if it's approved, or if there are any issues.
+
+5. **Review Email Notifications:**
+   - Additionally, Mozilla usually sends email notifications regarding the status of your extension review.
+   - Check your email associated with your Mozilla account for any messages from Mozilla Add-ons.
+
+Remember that the review process can take some time, and the duration may vary. If there are specific issues or additional information needed during the review, Mozilla may reach out to you through the Developer Hub or email.
+
+If you encounter difficulties or need more detailed information, you can also contact the [Mozilla Add-ons team](https://support.mozilla.org/en-US/kb/add-on-support-report-issue) for assistance.
+
+---
+
 Check later if not working:
 
 - [onHistoryStateUpdated Event](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/webNavigation/onHistoryStateUpdated)
