@@ -14,6 +14,17 @@ Enjoy seamless navigation between short and regular videos!
 
 </br>
 
+- **Install from Firefox AddOn Store:**
+  - soon...
+- **Install from Chrome Web Store:**
+  - https://chromewebstore.google.com/detail/youtube-shorts-redirect/bgdlfcleejgghcjjbpbdfkdhlbkknaal
+
+</br>
+
+---
+
+</br>
+
 **Load Extension in Firefox**
 
 1. Open Firefox and navigate to `about:debugging#/runtime/`.
