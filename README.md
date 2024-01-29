@@ -15,7 +15,7 @@ Enjoy seamless navigation between short and regular videos!
 </br>
 
 - **Install from Firefox AddOn Store:**
-  - soon...
+  - https://addons.mozilla.org/en-US/firefox/addon/youtube-shorts-url-redirect/
 - **Install from Chrome Web Store:**
   - https://chromewebstore.google.com/detail/youtube-shorts-redirect/bgdlfcleejgghcjjbpbdfkdhlbkknaal
 
@@ -44,7 +44,7 @@ you will need to submit it to the Firefox Add-ons site as mentioned in the previ
 
 </br>
 
-- **Code for Chrome Extension:**
-  - https://github.com/gael-src/youtube-shorts-redirect-chrome
 - **Code for Firefox Extension:**
   - https://github.com/gael-src/youtube-shorts-redirect-firefox
+- **Code for Chrome Extension:**
+  - https://github.com/gael-src/youtube-shorts-redirect-chrome
