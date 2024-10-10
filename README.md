@@ -1,4 +1,4 @@
-# youtube-shorts-redirect-firefox
+# yt-shorts-redirect-firefox
 
 </br>
 
