@@ -45,6 +45,6 @@ you will need to submit it to the Firefox Add-ons site as mentioned in the previ
 </br>
 
 - **Code for Firefox Extension:**
-  - https://github.com/gael-src/youtube-shorts-redirect-firefox
+  - https://github.com/gael-src/yt-shorts-redirect-firefox
 - **Code for Chrome Extension:**
-  - https://github.com/gael-src/youtube-shorts-redirect-chrome
+  - https://github.com/gael-src/yt-shorts-redirect-chrome
