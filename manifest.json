@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "YT Shorts Redirect",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Automatically redirects YouTube Shorts URLs to Watch URLs.",
   "icons": {
     "16": "images/icon16.png",
